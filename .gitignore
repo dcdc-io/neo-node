@@ -286,3 +286,8 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+foo.json
+
+# databases
+Chain_**/
+Index_**/
